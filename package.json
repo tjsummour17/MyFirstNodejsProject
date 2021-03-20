@@ -1,0 +1,27 @@
+{
+  "name": "firstnodeproject",
+  "version": "1.0.0",
+  "description": "This is my first Node.js Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('test')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjsummour17/MyFirstNodejsProject.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Talal Sammour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tjsummour17/MyFirstNodejsProject/issues"
+  },
+  "homepage": "https://github.com/tjsummour17/MyFirstNodejsProject#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^1.2.0"
+  }
+}
